@@ -174,7 +174,7 @@ define sicklaser ranger
   sensor(
     range [ 0.0 8.0 ]
     fov 180
-    samples 8
+    samples 6
   )
   # generic model properties
   color "blue"
